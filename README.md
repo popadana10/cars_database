@@ -6,7 +6,7 @@ This project is a simple cars management system built with HTML, CSS, and JavaSc
 -  https://popadana10.github.io/cars_database/
 
 ## Credits
-This project was created as a coding exercise by [Margit Tennosaar].
+This project was created as a coding exercise by Margit Tennosaar.
 
 ## Get in Touch
 
